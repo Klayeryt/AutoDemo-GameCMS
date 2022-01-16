@@ -52,12 +52,12 @@
 На сервер и настраиваем конфиг SourceTV Manager таким макаром:
 
 |Файл server.cfg|
-tv_name "Плюшка :3" // Можно любое название
-tv_delay 10
-sm_autodemo_recordmode "1"
-sm_autodemo_minplayers "2"
-tv_advertise_watchable "1"
-tv_enable "1"
+- tv_name "Плюшка :3" // Можно любое название
+- tv_delay 10
+- sm_autodemo_recordmode "1"
+- sm_autodemo_minplayers "2"
+- tv_advertise_watchable "1"
+- tv_enable "1"
 
 Сохраняем и далее открываем файл autodemo_simpleuploader.cfg
 
