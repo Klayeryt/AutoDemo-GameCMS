@@ -1,2 +1,2 @@
 # AutoDemo-GameCMS
-<h5>Настройка демок в движке GameCMS</h5>
+<h1>Настройка демок в движке GameCMS</h1>
