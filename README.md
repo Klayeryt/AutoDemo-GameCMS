@@ -13,7 +13,7 @@
 Начнём с установки ---> Скачиваем
 
 - REST in Pawn: https://github.com/ErikMinekus/sm-ripext/releases/latest
-- SourceTV (ext) https://mega.nz/file/P0hAXChS#34UQKXfaNJ0PKMqNUXSWANLNlLP7-5gyln6LdcQPYyI
+- SourceTV (ext) https://mega.nz/file/P0hAXChS#34UQKXfaNJ0PKMqNUXSWANLNlLP7-5gyln6LdcQPYyI (папка extensions)
 - SourceTV Manager: https://forums.alliedmods.net/showthread.php?t=280402       <----------
 - [AutoDemo] Core: https://github.com/CrazyHackGUT/sm-autodemo
 
